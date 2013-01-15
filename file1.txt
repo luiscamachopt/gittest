@@ -1,1 +1,2 @@
 linha 1 no file1 em lcDev
+linha 1 em commondev
